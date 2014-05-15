@@ -6,4 +6,4 @@ test-child
 33
 44
 
-in b1
+in b1 --1
